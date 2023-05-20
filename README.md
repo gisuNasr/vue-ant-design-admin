@@ -33,5 +33,5 @@ you have questions or need help integrating the product please [contact me](giso
 
 ##### Social Media
 
-linkedin:https://www.linkedin.com/in/gisunasrollahi)
+linkedin:https://www.linkedin.com/in/gisunasrollahi
 
