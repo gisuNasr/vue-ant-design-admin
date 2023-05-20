@@ -28,17 +28,10 @@ go to the projects folder and run "npm i"
 you can serve this project on your localhost with "npm run serve"
 build for production with "npm run build"
 
-## Demo
-
-## dashboard : https://admin.zigzall.com/dashboard,
-## sign-in   : https://admin.zigzall.com/sign-in,
-## sign-up   : https://admin.zigzall.com/sign-up,
-## profile   : https://admin.zigzall.com/profile,
-
 you have questions or need help integrating the product please [contact me](gisoonasrollahi@gmail.com) 
 
 
 ##### Social Media
 
-linkedin: https://ir.linkedin.com/in/gisoo-nasrollahi-b6063a230
+linkedin:https://www.linkedin.com/in/gisunasrollahi)
 
