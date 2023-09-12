@@ -16,9 +16,24 @@ You can use this admin panel to develope your projects.Tools and technologies us
 ## Installation
 
 clone or download this project
-go to the projects folder and run "npm i"
-you can serve this project on your localhost with "npm run serve"
-build for production with "npm run build"
+<br>
+go to the projects folder and run 
+<br>
+
+`` npm i ``
+
+you can serve this project on your localhost with 
+<br>
+
+```npm run serve```
+<br>
+
+build for production with
+<br>
+
+``npm run build``
+
+<br>
 
 you have questions or need help integrating the product please [contact me](gisoonasrollahi@gmail.com) 
 
