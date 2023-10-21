@@ -2,8 +2,16 @@
 
 Muse Rtl - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized
 
-You can use this admin panel to develope your projects.Tools and technologies used in this project are"ant-design-vue/v1.7","vue/v2.6",
- "vue-router/v3.5".
+You can use this admin panel to develope your projects.Tools and technologies used in this project are
+<br>
+`ant-design-vue/v1.7`,
+<br>
+`vue/v2.6`,
+<br>
+`vue-router/v3.5`.
+<br>
+
+and you need node `12.3` to run this project.
 <p align="center">
  
 <img width="1000" alt="Screen Shot 1402-06-21 at 14 03 37" src="https://github.com/gisuNasr/vue-ant-design-admin/assets/113020788/e66cf275-acd8-491a-bf72-08d7db2898e4">
